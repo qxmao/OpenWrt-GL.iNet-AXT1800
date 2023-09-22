@@ -158,27 +158,27 @@
     desc: 'Argon主题设置',
   },
 
-  //科学上网
-  // {
-  //   name: 'luci-app-bypass',
-  //   desc: 'Bypass代理',
-  // },
-  // {
-  //   name: 'luci-app-ssr-plus',
-  //   desc: 'SSR Plus+代理',
-  // },
-  // {
-  //   name: 'luci-app-passwall',
-  //   desc: 'Passwall代理',
-  // },
-  // {
-  //   name: 'luci-app-passwall2',
-  //   desc: 'Passwall2代理',
-  // },
-  // {
-  //   name: 'luci-app-vssr',
-  //   desc: 'Hello World代理',
-  // },
+  科学上网
+   {
+     name: 'luci-app-bypass',
+     desc: 'Bypass代理',
+   },
+   {
+     name: 'luci-app-ssr-plus',
+     desc: 'SSR Plus+代理',
+   },
+   {
+     name: 'luci-app-passwall',
+     desc: 'Passwall代理',
+   },
+   {
+     name: 'luci-app-passwall2',
+     desc: 'Passwall2代理',
+   },
+   {
+     name: 'luci-app-vssr',
+     desc: 'Hello World代理',
+   },
   {
     name: 'luci-app-openclash',
     desc: 'Clash代理',
@@ -211,10 +211,10 @@
     name: 'luci-app-openvpn',
     desc: 'OpenVPN客户端',
   },
-  // {
-  //   name: 'luci-app-docker',
-  //   desc: 'Docker容器',
-  // },
+   {
+     name: 'luci-app-docker',
+     desc: 'Docker容器',
+   },
   // {
   //   name: 'luci-app-adbyby-plus',
   //   desc: '广告屏蔽大师Plus +',
