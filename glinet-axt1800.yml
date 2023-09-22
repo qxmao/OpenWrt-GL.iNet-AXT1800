@@ -65,6 +65,8 @@ packages:
   - luci-app-fileassistant
   - luci-theme-argon
   - luci-app-argon-config
+  - luci-app-ssr-plus
+  - luci-app-passwall
   - luci-app-openclash
   - luci-app-zerotier
   - luci-app-openvpn
